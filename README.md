@@ -1,2 +1,2 @@
-# Dice
-I have made this project for dice simulation process that in that we can use simulation process by using random module such a nice project.
+# Rock_Paper_Sissor
+I have developed this Rock_Paper_Sissor game to just a game play in python
